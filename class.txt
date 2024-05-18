@@ -1,7 +1,6 @@
 Crimson
 Orange
 Blue
-Cyan
 Yellow
 Charcoal
 Khaki
@@ -11,3 +10,4 @@ Fuchsia
 Purple
 Brown
 Red
+vert bleu
